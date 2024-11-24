@@ -19,6 +19,7 @@ Output:
 <img width="737" alt="Screenshot 2024-11-24 at 4 17 15 PM" src="https://github.com/user-attachments/assets/3aa18450-6ed8-44a2-b431-fdabe12eed43">
 
 And the result is displayed as below: 
+
 <img width="329" alt="Screenshot 2024-11-24 at 4 20 36 PM" src="https://github.com/user-attachments/assets/febb4cec-1933-43d4-83fa-e0d4bb3d9663">
 <img width="333" alt="Screenshot 2024-11-24 at 4 20 31 PM" src="https://github.com/user-attachments/assets/fb7b3d32-c0cf-46dd-adc4-67c701695433">
 
